@@ -1,2 +1,2 @@
-# visualitzaci-_explorat-ria
+# visualitzacio_exploratoria
 Sprint 3 T01
